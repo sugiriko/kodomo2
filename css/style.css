@@ -733,6 +733,7 @@ footer .animal {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 40px;
+  aspect-ratio: 1/1;
 }
 @media screen and (max-width: 768px) {
   .work_detail2 .grid .items img {
