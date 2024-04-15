@@ -563,6 +563,9 @@
         @include m.sp {
             display: block;
         }
+        @include m.tab {
+            display: block;
+        }
 
         img {
             max-width: 300px;
