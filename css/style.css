@@ -1035,6 +1035,11 @@ footer .animal {
     display: block;
   }
 }
+@media screen and (max-width: 768px) {
+  .news-top .news-items {
+    display: block;
+  }
+}
 .news-top .news-items img {
   max-width: 300px;
   margin: 50px 30px 0;
